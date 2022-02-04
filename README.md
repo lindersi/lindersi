@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lindersi
-- 👀 I’m interested in home automation, Raspberry Pi projects, webdesign and trailrunning
+- 👀 I’m interested in home automation, Raspberry Pi projects, cryptocurrencies, webdesign and trailrunning
 - 🌱 I’m currently learning git, python and Superalgos
 - 💞️ I’m looking to collaborate on ... / not yet able to code
 - 📫 How to reach me ... - over github?
